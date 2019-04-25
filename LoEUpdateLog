@@ -6,7 +6,7 @@ ExtraData: ["important", "notreleased"]
 ###
 Version: M.m.r
 Released: 24 April 2019 @ 00:00 UTC-6
-ExtraData: ["important"]
+ExtraData: []
 
 + Added something
 * Changed something
