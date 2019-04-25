@@ -1,11 +1,7 @@
-Version: M.m.r2
+Version: M.m.r
 Released: 24 April 2019
+ExtraData: ["important", "some flag value", "lol"]
 
 + Added something
 * Changed something
 - Removed something
-###
-Version: M.m.r
-Released: 24 April 2019
-
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
