@@ -1,7 +1,9 @@
 Version: 0.1.0
-Released: In the distant future
+Released: in the distant future
 ExtraData: ["important", "notreleased"]
 
 Welcome to The Lands of Eyzira Beta v0.1.0!
 
-In case you've managed to find this document from the github, this is a placeholder document. The release is not as near as you may think, it's gonna take a while :)
+In case you've managed to find this document from the github, this is a placeholder document designed to test my dynamic changelog loader. In case you haven't gathered, this is where changelogs will go!
+
+P.S. The release is not as near as you may think. It's gonna take a while :)
