@@ -1,9 +1,5 @@
-Version: 0.0.0.1
-Released: in the distant future
-ExtraData: ["important", "notreleased"]
+Version: Indev 0.0.0
+Released: 26 Apr 2019
+ExtraData: []
 
-Welcome to The Lands of Eyzira Beta v0.1.0!
-
-In case you've managed to find this document from the github, this is a placeholder document designed to test my dynamic changelog loader. In case you haven't gathered, this is where changelogs will go!
-
-P.S. The release is not as near as you may think. It's gonna take a while.
+This is a test of the update log system! Neato!
