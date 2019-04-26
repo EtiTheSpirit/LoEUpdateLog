@@ -1,5 +1,5 @@
 Version: Indev 0.0.0
 Released: 26 Apr 2019
-ExtraData: []
+ExtraData: ["important", "notreleased"]
 
 This is a test of the update log system! Neato!
