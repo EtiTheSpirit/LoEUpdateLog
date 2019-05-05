@@ -9,7 +9,7 @@ Version Formatting is based on the standard [Semantic Version](https://semver.or
 
 The format is: `TAG MAJOR.MINOR.PATCH` where...
 * `TAG` represents the main game version. This will either be `Indev`, `Alpha`, `Beta`, or nothing for the released game.
-* `MAJOR` now represents major updates to the game, like large-scale content drops that add item sets or zones to the game, updates worth events or entire advertising schemes over.
+* `MAJOR` now represents major updates to the game, like large-scale content drops that add item sets or zones to the game, updates worth events or entire advertising schemes over. *This will reset whenever the tag is advanced. Release will start at 1 instead of 0.*
 * `MINOR` now represents minor updates to the game, like major bug fixes, major stat or balance changes, or adding small scale things e.g. individual items / cosmetic extensions to items.
 * `PATCH` now represents small-scale fixes like minor bugfixes (e.g. typo in a GUI), minor stat or balance tweaks, or altering the appearance of existing items on a small scale.
 
