@@ -1,6 +1,6 @@
 Version: Indev 0.1.0
 Released: 4 May 2019
-ExtraData: []
+ExtraData: ["important"]
 
 + Appended new system in the update log to highlight changes line by line using standard diff formatting
 * Fixed a bug causing the new dynamic music loader to play several songs at once if you swapped zones quickly enough
@@ -10,7 +10,7 @@ ExtraData: []
 ###
 Version: Indev 0.0.0
 Released: 26 Apr 2019
-ExtraData: []
+ExtraData: ["notreleased","important"]
 
 This is a test of the update log system! Neato!
 
