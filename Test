@@ -1,4 +1,4 @@
-UPDATE LOG BEGIN INDENTIFIER
+UPDATE LOG BEGIN IDENTIFIER
 
 Version: Indev 0.1.0
 Released: 4 May 2019
@@ -16,4 +16,4 @@ ExtraData: ["notreleased","important"]
 
 This is a test of the update log system! Neato!
 
-UPDATE LOG END INDENTIFIER
+UPDATE LOG END IDENTIFIER
