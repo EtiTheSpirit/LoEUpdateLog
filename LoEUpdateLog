@@ -1,5 +1,17 @@
 UPDATE LOG BEGIN IDENTIFIER
 
+Version: Indev 0.1.1
+Released: 9 May 2019
+ExtraData: []
+
++ Appended new system in the update log to grab changes directly from the preview page (not the raw page). This should prevent problems caused by caching.
++ Added prototype rain and snow effects for the dynamic weather engine. Smooth transitions will be added at a later date.
++ Added developer commentary nodes.
+* Changed the error reporter system to be a module, and exposed a `SendWarning` function that scripts must explicitly call.
+* Fixed a bug causing music to suddenly get extremely loud before the end of a commentary node
+- Removed old fog script from Greylight
+- Removed old rain script from Greylight
+
 Version: Indev 0.1.0
 Released: 4 May 2019
 ExtraData: []
