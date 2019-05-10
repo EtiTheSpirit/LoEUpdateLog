@@ -1,0 +1,19 @@
+REALLY COOL AND VERY SPECIFIC TEXT AT THE START OF THE DOCUMENT
+
+Version: Indev 0.1.0
+Released: 4 May 2019
+ExtraData: []
+
++ Appended new system in the update log to highlight changes line by line using standard diff formatting
+* Fixed a bug causing the new dynamic music loader to play several songs at once if you swapped zones quickly enough
+* Reimplemented ambient noise handlers with a more "aware" system of the user's surroundings to improve immersion.
+- This line is a test for the new system.
+
+###
+Version: Indev 0.0.0
+Released: 26 Apr 2019
+ExtraData: ["notreleased","important"]
+
+This is a test of the update log system! Neato!
+
+REALLY COOL AND VERY SPECIFIC TEXT AT THE END OF THE DOCUMENT
