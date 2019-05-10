@@ -1,4 +1,4 @@
-REALLY COOL AND VERY SPECIFIC TEXT AT THE START OF THE DOCUMENT
+UPDATE LOG BEGIN INDENTIFIER
 
 Version: Indev 0.1.0
 Released: 4 May 2019
@@ -16,4 +16,4 @@ ExtraData: ["notreleased","important"]
 
 This is a test of the update log system! Neato!
 
-REALLY COOL AND VERY SPECIFIC TEXT AT THE END OF THE DOCUMENT
+UPDATE LOG END INDENTIFIER
