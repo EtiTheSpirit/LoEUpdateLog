@@ -7,6 +7,7 @@ ExtraData: []
 + Added visible building plan markers to Greylight, construction should be at full speed from here onward.
 * Fixed a bug causing [void ChannelObject::NeedsAttention] to fail (Chat channel tabs will now flash when a new message is added to them)
 * Changes to the Realm of the Ani, unlisted due to privacy concerns.
+* Updated the log viewer to use Roblox's built-in [string.split] method rather than a custom function.
 
 ###
 
