@@ -5,7 +5,8 @@ Released: 11 June 2019
 ExtraData: []
 
 + Added visible building plan markers to Greylight, construction should be at full speed from here onward.
-+ Added new case for update log previewer to make it not show automatically if you've seen the latest version and a button to show the update log.
++ Added new case for update log previewer to make it not show automatically if you've seen the latest version.
++ Added a button to manually view the latest update log.
 * Fixed a bug causing [void ChannelObject::NeedAttention] to fail (Chat channel tabs will now flash when a new message is added to them)
 * Changes to update log viewer to use emojis rather than +, *, and -.
 - Nothing was removed. This is to test the above change.
