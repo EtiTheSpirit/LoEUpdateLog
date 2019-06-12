@@ -5,6 +5,8 @@ Released: 11 June 2019
 ExtraData: []
 
 + Added visible building plan markers to Greylight, construction should be at full speed from here onward.
++ Added new case for update log previewer to make it not show automatically if you've seen the latest version.
++ Added a button to show the update log.
 * Fixed a bug causing [void ChannelObject::NeedsAttention] to fail (Chat channel tabs will now flash when a new message is added to them)
 * Changes to the Realm of the Ani, unlisted due to privacy concerns.
 * Changed the update log preview to show U+02794 HEAVY WIDE-HEADED RIGHT ARROW instead of * for standard changes.
