@@ -1,5 +1,15 @@
 UPDATE LOG BEGIN IDENTIFIER
 
+Version: Indev 0.1.2
+Released: 11 June 2019
+ExtraData: []
+
++ Added visible building plan markers to Greylight, construction should be at full speed from here onward.
+* Fixed a bug causing [void ChannelObject::NeedsAttention] to fail (Chat channel tabs will now flash when a new message is added to them)
+* Changes to the Realm of the Ani, unlisted due to privacy concerns.
+
+###
+
 Version: Indev 0.1.1
 Released: 9 May 2019
 ExtraData: []
