@@ -1,5 +1,14 @@
 UPDATE LOG BEGIN IDENTIFIER
 
+Version: Indev 0.2.0
+Released: 24 June 2019
+ExtraData: ["notreleased"]
+
++ Added "Whisper" button to player context menu.
++ Added title selector
+* Reworked player Gift of Rarity data objects + data persistence to support it.
+
+###
 Version: Indev 0.1.2
 Released: 11 June 2019
 ExtraData: []
