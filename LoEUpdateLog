@@ -1,8 +1,18 @@
 UPDATE LOG BEGIN IDENTIFIER
 
+Version: Indev 0.2.1
+Released: 27 June 2019
+ExtraData: []
+
++ Added replication of updated player titles to the player list entry
++ Added "No Title" button to title selector
++ Added users to the Gift of Rarity registry
+* Improved display of titles in the menu so that all of the text is uniform in scale.
+
+###
 Version: Indev 0.2.0
 Released: 24 June 2019
-ExtraData: ["notreleased"]
+ExtraData: []
 
 + Added "Whisper" button to player context menu.
 + Added title selector
