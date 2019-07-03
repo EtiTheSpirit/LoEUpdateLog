@@ -6,7 +6,7 @@ ExtraData: ["notreleased"]
 
 + Added Enum.ChatMessageType.Custom to clientside chat system so that the server can send custom message formats (rather than npc/system/other presets)
 + Added /e and /me commands for emotes.
-+ Added Enum.ChatMessageType.Emote to clientside chat system for emotes
++ Added Enum.ChatMessageType.Emote to clientside chat system for emotes. Emote messages will not make chat channel tabs flash to request focus.
 + Added custom tag operand for NPC dialog on the clientside to override the stock "[NPC Say]" tag that appeared before all NPC messages.
 * Fixed a bug with existing prototype NPCs referencing an event that hasn't existed for a while now.
 * Fixed a bug allowing players to whisper themselves
