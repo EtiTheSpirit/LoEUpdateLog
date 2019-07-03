@@ -2,7 +2,7 @@ UPDATE LOG BEGIN IDENTIFIER
 
 Version: Indev 0.2.2
 Released: 3 July 2019
-ExtraData: ["notreleased"]
+ExtraData: []
 
 + Added Enum.ChatMessageType.Custom to clientside chat system so that the server can send custom message formats (rather than npc/system/other presets)
 + Added /e and /me commands for emotes
