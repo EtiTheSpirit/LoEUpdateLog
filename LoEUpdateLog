@@ -5,8 +5,8 @@ Released: 3 July 2019
 ExtraData: ["notreleased"]
 
 + Added Enum.ChatMessageType.Custom to clientside chat system so that the server can send custom message formats (rather than npc/system/other presets)
-+ Added core structure for NPC dialog and player responses.
 + Added custom tag operand for NPC dialog on the clientside to override the stock "[NPC Say]" tag that appeared before all NPC messages.
++ Added /e and /me commands for emotes.
 * Fixed a bug with existing prototype NPCs referencing an event that hasn't existed for a while now.
 * Players will now see their own messages after filtration (Before, players saw their own messages unfiltered)
 
