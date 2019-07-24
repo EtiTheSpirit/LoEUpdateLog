@@ -1,15 +1,5 @@
 UPDATE LOG BEGIN IDENTIFIER
 
-Version: Indev 0.2.3
-Released: 4 July 2019
-ExtraData: []
-
-+ More map work
-* Restructure entire scripting backend by organizing objects and giving packages more descriptive names.
-* Remove all WaitForChild calls on objects being read by the server (These are unnecessary)
-* Fixed a bug with relaying formatted chat messages over the filter. Colored text should display properly when sent by other clients now.
-
-###
 Version: Indev 0.3.0
 Released: 24 July 2019
 ExtraData: []
