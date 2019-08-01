@@ -1,7 +1,7 @@
 UPDATE LOG BEGIN IDENTIFIER
 
 Version: Indev 0.4.0
-Released: 28 July 2019
+Released: 1 August 2019
 ExtraData: []
 
 + MASSIVE updates for all of Greylight. Added new library and rift room, new props, new layout changes.
