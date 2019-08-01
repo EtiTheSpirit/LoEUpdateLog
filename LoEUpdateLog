@@ -1,5 +1,15 @@
 UPDATE LOG BEGIN IDENTIFIER
 
+Version: Indev 0.4.0
+Released: 28 July 2019
+ExtraData: []
+
++ MASSIVE updates for all of Greylight. Added new library and rift room, new props, new layout changes.
+* Changed music system to greatly prefer zone audio in favor of random (common) audio since most of the time Greylight's music wasn't playing.
+- Removed Ani and Nightmare from the race selection screen.
+
+###
+
 Version: Indev 0.3.1
 Released: 28 July 2019
 ExtraData: []
