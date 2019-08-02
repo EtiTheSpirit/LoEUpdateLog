@@ -2,10 +2,10 @@ UPDATE LOG BEGIN IDENTIFIER
 
 Version: Indev 0.4.0
 Released: 1 August 2019
-ExtraData: ["notreleased"]
+ExtraData: []
 
 + MASSIVE updates for all of Greylight. Added new library and rift room, new props, new layout changes.
-+ Added massive optimization script for mesh grass that only renders it within a certain range of the camera.
++ Added massive optimization script for mesh grass that only renders it within a certain range of the camera. This script is not active yet.
 * Changed music system to greatly prefer zone audio in favor of random (common) audio since most of the time Greylight's music wasn't playing.
 - Removed Ani and Nightmare from the race selection screen.
 
